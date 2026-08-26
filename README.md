@@ -31,11 +31,12 @@ Your team has set up a shared GitHub repository for the project, but you need to
 
 
 ---
-### Create Branches
+### Part 2: Create Branches
 
-- [ ] main
-- [ ] feature/contact-form
-- [ ] feature/footer
-- [ ] feature/hero-section
-- [ ] feature/navigation-bar
-- [ ] feature/testimonials
+> Create a new branch for each feature and merge them into the main branch one by one. Ensure that you resolve any conflicts that arise.
+
+- [X] feature/navigation-bar
+- [X] feature/footer
+- [X] feature/hero-section
+- [X] feature/contact-form
+- [X] feature/testimonials
